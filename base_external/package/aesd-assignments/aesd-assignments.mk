@@ -5,7 +5,7 @@
 ##############################################################
 
 AESD_ASSIGNMENTS_VERSION = '7d2f3cd3a0a022963ebe2f9f019088d5b0d9e7a5'
-AESD_ASSIGNMENTS_SITE = 'git@github.com:ash-134/aeld-assignment-9.git'
+AESD_ASSIGNMENTS_SITE = 'https://github.com/ash-134/aeld-assignment-9.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
